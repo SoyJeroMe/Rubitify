@@ -1,0 +1,4 @@
+# config/application.yml
+
+SPOTIFY_CLIENT_ID: "73cd7f5dee4048cb84c874fd17d5c84b"
+SPOTIFY_CLIENT_SECRET: "0051cda4b9854d2d89c25ce3f1cc7b3e"
